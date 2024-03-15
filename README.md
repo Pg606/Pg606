@@ -1,16 +1,26 @@
-### Hi there 👋
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Prateek Gupta</h1>
+<h3 align="center">Welcome to my GitHub! As a diligent seeker of insights within the realm of information technology and analytics, I bring a robust blend of experience in Quality Assurance and Business Analysis to the table. With a solid foundation in tools like R, Python, SQL, Tableau, and Power BI, I'm committed to harnessing the power of data to drive informed decisions and innovative solutions. Explore my repository to discover how I utilize analytical tools and skills to unlock valuable insights and streamline processes in diverse domains. Let's collaborate and pave the way for data-driven excellence together.</h3>
 
-<!--
-**Pg606/Pg606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://mcodify.com/wp-content/uploads/2021/01/analysis.gif">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently pursuing **Master's degree in Information Technology and Analytics at Rutgers University. My academic focus includes advanced topics in data analysis, machine learning, and business intelligence. Through this program, I’m enhancing my skills and knowledge in the field of information technology to further my career in data management and analytics.**
+
+
+  
+
+- 🌱 I’m currently learning **advanced knowledge and skills in areas such as data analysis, machine learning, business intelligence, and data visualization. I learnt how to effectively use programming languages like R, Python, SQL, and tools such as Tableau, Power BI, and scikit-learn for data analysis and visualization. Additionally, I’m exploring techniques for data quality management, data validation, and conducting data audits to ensure accuracy and efficiency in data processing. My coursework also includes in-depth projects and practical experiences to apply my learning in real-world scenarios, preparing me for a successful career in the field of information technology and analytics.**
+
+
+
+- 👨‍💻 I'm currently exploring **on data quality management, ensuring data accuracy through quality assurance procedures and validation techniques. I’m also enhancing my proficiency in programming languages like R, Python, SQL, and others to manipulate and analyze data efficiently. Through this exploration, I’m preparing myself to excel in the realm of information technology and analytics, poised to contribute significantly to data-driven decision-making processes.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/prateek-gupta-995097195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prateek-gupta-995097195" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
